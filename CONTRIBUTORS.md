@@ -1,4 +1,9 @@
-#### Name: Vallenain
+#### Name: [Mohamed Umair](https://github.com/agnieszka-miszkurka)
+- Place: Sri Lanka
+- Bio: second year Computer Science Student at Plymouth University
+- GitHub: [umiloop](https://github.com/umiloop)
+-
+- #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
  - GitHub: [Vallenain](https://github.com/Vallenain)
